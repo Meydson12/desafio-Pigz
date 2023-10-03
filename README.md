@@ -1,3 +1,6 @@
 # desafio-Pigz
-Resolução do desafio
+#Primeiros passos
 
+|Funcionalidade  | Cenário de teste |Passos|Resultado esperado|
+|--|--|--|--| 
+| Cadastrar Restaurante |  |  |  |
